@@ -1,0 +1,26 @@
+{
+    "id": "16D1B9CC",
+    "path": "~/Desktop/google-playstore-eda-r/src/04_feature_engineering.R",
+    "project_path": "src/04_feature_engineering.R",
+    "type": "r_source",
+    "hash": "2647334848",
+    "contents": "",
+    "dirty": false,
+    "created": 1784704136131.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "91,36",
+        "scrollLine": "64"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1784704158,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1784704158532,
+    "read_only": false,
+    "read_only_alternatives": []
+}

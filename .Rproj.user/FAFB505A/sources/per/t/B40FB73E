@@ -1,0 +1,26 @@
+{
+    "id": "B40FB73E",
+    "path": "~/Desktop/google-playstore-eda-r/src/functions/clean_installs.R",
+    "project_path": "src/functions/clean_installs.R",
+    "type": "r_source",
+    "hash": "1725065994",
+    "contents": "",
+    "dirty": false,
+    "created": 1784703791065.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1784703880,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1784703880520,
+    "read_only": false,
+    "read_only_alternatives": []
+}

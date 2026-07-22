@@ -1,0 +1,26 @@
+{
+    "id": "A5033358",
+    "path": "~/Desktop/google-playstore-eda-r/src/functions/mode_function.R",
+    "project_path": "src/functions/mode_function.R",
+    "type": "r_source",
+    "hash": "3632230101",
+    "contents": "",
+    "dirty": false,
+    "created": 1784704223167.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1784704233,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1784704233375,
+    "read_only": false,
+    "read_only_alternatives": []
+}

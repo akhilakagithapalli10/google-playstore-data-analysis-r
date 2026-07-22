@@ -1,0 +1,26 @@
+{
+    "id": "B1524979",
+    "path": "~/Desktop/google-playstore-eda-r/src/functions/clean_price.R",
+    "project_path": "src/functions/clean_price.R",
+    "type": "r_source",
+    "hash": "1016162190",
+    "contents": "",
+    "dirty": false,
+    "created": 1784703801916.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1784703870,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1784703870374,
+    "read_only": false,
+    "read_only_alternatives": []
+}

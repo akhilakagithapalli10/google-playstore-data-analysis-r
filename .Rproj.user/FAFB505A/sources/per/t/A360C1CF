@@ -1,0 +1,26 @@
+{
+    "id": "A360C1CF",
+    "path": "~/Desktop/google-playstore-eda-r/src/config.R",
+    "project_path": "src/config.R",
+    "type": "r_source",
+    "hash": "2050047515",
+    "contents": "",
+    "dirty": false,
+    "created": 1784703458320.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,17",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1784704591,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1784704591627,
+    "read_only": false,
+    "read_only_alternatives": []
+}
