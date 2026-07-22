@@ -180,7 +180,7 @@ google-playstore-eda-r/
 
 ### Folder Structure
 
-![Folder Structure](screenshots/folder_structure.png)
+![Folder Structure](screenshots/folder_structure.png.png)
 
 ### Rating Distribution
 
