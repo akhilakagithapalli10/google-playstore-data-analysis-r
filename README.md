@@ -301,3 +301,11 @@ Feedback, suggestions, and contributions are always welcome.
 
 ## Project Last Updated
 July 2026
+
+## 🚀 Future Enhancements
+
+- Build an interactive R Shiny dashboard.
+- Automate report generation using R Markdown.
+- Integrate CI/CD with GitHub Actions.
+- Add unit testing for reusable R functions.
+- Expand the analysis with predictive modeling techniques.
