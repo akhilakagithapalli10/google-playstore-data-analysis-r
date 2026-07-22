@@ -2,7 +2,7 @@
   <img src="screenshots/banner.png" alt="Google Play Store EDA Banner" width="100%">
 </p>
 
-# 📱 Google Play Store Exploratory Data Analysis using R
+
 
 # 📱 Google Play Store Exploratory Data Analysis using R
 
